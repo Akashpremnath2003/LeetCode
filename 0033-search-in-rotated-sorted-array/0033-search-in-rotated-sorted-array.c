@@ -1,5 +1,5 @@
 int search(int* nums, int numsSize, int target) {
- int n=numsSize;
+     int n=numsSize;
  int i,a,f;
  for(i=0;i<n;i++)
  {
