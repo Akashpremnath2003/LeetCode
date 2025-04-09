@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Akashpremnath2003/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Akashpremnath2003/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akashpremnath2003/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akashpremnath2003/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Akashpremnath2003/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Akashpremnath2003/LeetCode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akashpremnath2003/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akashpremnath2003/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Akashpremnath2003/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akashpremnath2003/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Sorting
 |  |
 | ------- |
