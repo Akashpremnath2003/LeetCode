@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Akashpremnath2003/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Akashpremnath2003/LeetCode/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Akashpremnath2003/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Two Pointers
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Akashpremnath2003/LeetCode/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Akashpremnath2003/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1013-fibonacci-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Akashpremnath2003/LeetCode/tree/master/1086-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -189,8 +191,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Akashpremnath2003/LeetCode/tree/master/0319-bulb-switcher) |
+| [1086-divisor-game](https://github.com/Akashpremnath2003/LeetCode/tree/master/1086-divisor-game) |
 ## Backtracking
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Akashpremnath2003/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Akashpremnath2003/LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
