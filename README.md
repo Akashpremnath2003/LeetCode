@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Akashpremnath2003/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Akashpremnath2003/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/Akashpremnath2003/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
