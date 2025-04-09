@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Akashpremnath2003/LeetCode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Akashpremnath2003/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Akashpremnath2003/LeetCode/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Akashpremnath2003/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akashpremnath2003/LeetCode/tree/master/0070-climbing-stairs) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Akashpremnath2003/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Memoization
 |  |
 | ------- |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Akashpremnath2003/LeetCode/tree/master/0319-bulb-switcher) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Akashpremnath2003/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
