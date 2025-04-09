@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Akashpremnath2003/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Akashpremnath2003/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Akashpremnath2003/LeetCode/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Akashpremnath2003/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akashpremnath2003/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Akashpremnath2003/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
