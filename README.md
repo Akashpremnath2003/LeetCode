@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Akashpremnath2003/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Akashpremnath2003/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Akashpremnath2003/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Akashpremnath2003/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Akashpremnath2003/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akashpremnath2003/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -112,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Akashpremnath2003/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
