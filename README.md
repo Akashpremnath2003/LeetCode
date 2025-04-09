@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Binary Search
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Akashpremnath2003/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/0137-single-number-ii) |
 ## Recursion
 |  |
 | ------- |
