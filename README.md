@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Akashpremnath2003/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Akashpremnath2003/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,15 +95,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Akashpremnath2003/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Akashpremnath2003/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Akashpremnath2003/LeetCode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akashpremnath2003/LeetCode/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Akashpremnath2003/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+| [1013-fibonacci-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akashpremnath2003/LeetCode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
