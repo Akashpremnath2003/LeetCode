@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Akashpremnath2003/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1013-fibonacci-number) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Akashpremnath2003/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Two Pointers
 |  |
 | ------- |
