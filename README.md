@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Akashpremnath2003/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Akashpremnath2003/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Akashpremnath2003/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Akashpremnath2003/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Akashpremnath2003/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Akashpremnath2003/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
