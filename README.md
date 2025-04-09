@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Akashpremnath2003/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Akashpremnath2003/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Akashpremnath2003/LeetCode/tree/master/0792-binary-search) |
+| [0932-monotonic-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/0932-monotonic-array) |
 ## Binary Search
 |  |
 | ------- |
