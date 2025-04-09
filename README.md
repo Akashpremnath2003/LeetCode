@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Akashpremnath2003/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Akashpremnath2003/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Akashpremnath2003/LeetCode/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
@@ -65,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Akashpremnath2003/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Akashpremnath2003/LeetCode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Akashpremnath2003/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Akashpremnath2003/LeetCode/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
