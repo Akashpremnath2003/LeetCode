@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Akashpremnath2003/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/1651-shuffle-string) |
+| [2181-smallest-index-with-equal-value](https://github.com/Akashpremnath2003/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 ## Binary Search
 |  |
 | ------- |
