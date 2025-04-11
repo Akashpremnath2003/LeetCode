@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akashpremnath2003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Akashpremnath2003/LeetCode/tree/master/0645-set-mismatch) |
+| [0782-jewels-and-stones](https://github.com/Akashpremnath2003/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Akashpremnath2003/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akashpremnath2003/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Akashpremnath2003/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Akashpremnath2003/LeetCode/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/Akashpremnath2003/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1542-consecutive-characters](https://github.com/Akashpremnath2003/LeetCode/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/1651-shuffle-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/2470-removing-stars-from-a-string) |
