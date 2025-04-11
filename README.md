@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Akashpremnath2003/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1542-consecutive-characters](https://github.com/Akashpremnath2003/LeetCode/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/1651-shuffle-string) |
+| [1797-goal-parser-interpretation](https://github.com/Akashpremnath2003/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Akashpremnath2003/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Akashpremnath2003/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/2470-removing-stars-from-a-string) |
