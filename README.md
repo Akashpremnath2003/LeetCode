@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akashpremnath2003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Akashpremnath2003/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0645-set-mismatch](https://github.com/Akashpremnath2003/LeetCode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Akashpremnath2003/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akashpremnath2003/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Akashpremnath2003/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/0344-reverse-string) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Akashpremnath2003/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0742-to-lower-case](https://github.com/Akashpremnath2003/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Akashpremnath2003/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1542-consecutive-characters](https://github.com/Akashpremnath2003/LeetCode/tree/master/1542-consecutive-characters) |
@@ -265,4 +267,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Akashpremnath2003/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Akashpremnath2003/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
