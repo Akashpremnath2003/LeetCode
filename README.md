@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akashpremnath2003/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Akashpremnath2003/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Akashpremnath2003/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2998-count-symmetric-integers](https://github.com/Akashpremnath2003/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/Akashpremnath2003/LeetCode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
