@@ -2,7 +2,7 @@
 
 char * interpret(char * s){
     int n=strlen(s);
-    char *a=malloc(10000*sizeof(char));
+    char *a=malloc(1000*sizeof(char));
     int i,c=0;
     for(i=0;i<n;i++)
     {
