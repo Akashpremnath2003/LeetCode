@@ -4,12 +4,7 @@ int countSymmetricIntegers(int low, int high) {
     {
         int n=i;
         int n1=i;
-        c=0;
-        while(n)
-        {
-            c++;
-            n=n/10;
-        }
+        c=(int)log10(n)+1;
         if(c%2==0)
         {
             c2=0;
