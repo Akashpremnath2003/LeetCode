@@ -1,7 +1,5 @@
 int countSymmetricIntegers(int low, int high) {
     int i,j,c,n,r,c1=0,c2,d;
-    int a1=abs(low-high);
-    int *a=malloc(a1*sizeof(int));
     for(i=low;i<=high;i++)
     {
         int n=i;
@@ -29,15 +27,11 @@ int countSymmetricIntegers(int low, int high) {
                 c2++;
                 d=d/10;
             }
-
-            
             if(s1==s2)
             {
                 c1++;
             }
         }
-
     }
-   
-    return c1;
+return c1;
 }
