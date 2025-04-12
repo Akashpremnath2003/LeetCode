@@ -1,24 +1,18 @@
 int lengthOfLastWord(char* s) {
-    int n=strlen(s);
-    int i,c=0,m=0,a[n+1],b[n+1];
-    for(i=0;i<n;i++)
+    int i=strlen(s)-1;
+    int c=0,f=0;
+    while(i>=0)
     {
-        if(s[i]>=65&&s[i]<=90||s[i]>=97&&s[i]<=122)
-        {
-            c++;
-        }
-        else
-        {
-            c=0;
-        }
-        a[m++]=c;
-    }
-    c=0;
-    for(i=0;i<m;i++)
+       if(isalpha(s[i]))
+        f=1;
+    if(f==1)
     {
-        if(a[i]!=0)
-            b[c++]=a[i];
-            
+       if(s[i]==' ')
+        break;
+        else      
+        c++; 
+    } 
+    i--;
     }
-    return b[c-1];
+    return c;
 }
