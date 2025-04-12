@@ -30,10 +30,6 @@ int* majorityElement(int* nums, int numsSize, int* returnSize) {
             a[c1++]=c;
         }
     }
-    for(i=0;i<c1;i++)
-    {
-        printf("%d\t%d\n",b[i],a[i]);
-    }
     int c2=0;
     for(i=0;i<c1;i++)
     {
