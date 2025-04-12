@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akashpremnath2003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Akashpremnath2003/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Akashpremnath2003/LeetCode/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Akashpremnath2003/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Akashpremnath2003/LeetCode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akashpremnath2003/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Akashpremnath2003/LeetCode/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Akashpremnath2003/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Akashpremnath2003/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Akashpremnath2003/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Akashpremnath2003/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1013-fibonacci-number) |
