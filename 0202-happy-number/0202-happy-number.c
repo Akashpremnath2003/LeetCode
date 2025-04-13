@@ -11,11 +11,10 @@ for(i=0;i<n;i++)
     }
     if(s==1)
     {
-        a=1;
+        return 1;
         break;
     }
-    a=0;
     n=s;
 }
-    return a;  
+    return 0;  
 }
