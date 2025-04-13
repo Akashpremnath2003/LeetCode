@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Akashpremnath2003/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/1651-shuffle-string) |
+| [1839-decode-xored-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/1839-decode-xored-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Akashpremnath2003/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2181-smallest-index-with-equal-value](https://github.com/Akashpremnath2003/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Akashpremnath2003/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Akashpremnath2003/LeetCode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Akashpremnath2003/LeetCode/tree/master/0645-set-mismatch) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akashpremnath2003/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1839-decode-xored-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/1839-decode-xored-array) |
 ## Recursion
 |  |
 | ------- |
