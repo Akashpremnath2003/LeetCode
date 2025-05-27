@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Akashpremnath2003/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/1651-shuffle-string) |
 | [1839-decode-xored-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/1839-decode-xored-array) |
+| [2048-build-array-from-permutation](https://github.com/Akashpremnath2003/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Akashpremnath2003/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2181-smallest-index-with-equal-value](https://github.com/Akashpremnath2003/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Akashpremnath2003/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Akashpremnath2003/LeetCode/tree/master/0258-add-digits) |
+| [2048-build-array-from-permutation](https://github.com/Akashpremnath2003/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Akashpremnath2003/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Akashpremnath2003/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
