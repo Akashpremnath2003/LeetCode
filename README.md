@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Akashpremnath2003/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/1651-shuffle-string) |
 | [1839-decode-xored-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/1839-decode-xored-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Akashpremnath2003/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Akashpremnath2003/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Akashpremnath2003/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2181-smallest-index-with-equal-value](https://github.com/Akashpremnath2003/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akashpremnath2003/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Akashpremnath2003/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Akashpremnath2003/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Simulation
 |  |
