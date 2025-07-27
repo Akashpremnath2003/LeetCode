@@ -1,16 +1,14 @@
 bool judgeSquareSum(int c) {
-    int r=sqrt(c);
-    long s=0,j=0;
-    while(s<=r)
-    {
-        j=s*s+r*r;
-        if(j==c)
-            return 1;
-        if(j<c)
-        s++;
-        else
-        r--;
+    long long l=0,r=sqrt(c);
+        while(l<=r)
+        {
+            if(l*l+r*r==c)
+                return true;
+            else if(l*l+r*r<c)
+                l++;
+            else
+                r--;
+        }
+        return false;
     }
-    return 0;
 
-}
