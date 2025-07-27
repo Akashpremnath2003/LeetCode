@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Akashpremnath2003/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Akashpremnath2003/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2181-smallest-index-with-equal-value](https://github.com/Akashpremnath2003/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Akashpremnath2003/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Akashpremnath2003/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Akashpremnath2003/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
