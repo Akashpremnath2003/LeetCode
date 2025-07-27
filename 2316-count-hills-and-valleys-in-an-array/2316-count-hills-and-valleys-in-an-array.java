@@ -10,7 +10,6 @@ class Solution {
 
         }
         a[c++]=nums[nums.length-1];
-        System.out.println(Arrays.toString(a));
         int c1=0;
         for(int i=1;i<c-1;i++)
         {
