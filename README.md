@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Akashpremnath2003/LeetCode/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Akashpremnath2003/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Akashpremnath2003/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Akashpremnath2003/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Akashpremnath2003/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Akashpremnath2003/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Akashpremnath2003/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Akashpremnath2003/LeetCode/tree/master/0412-fizz-buzz) |
 | [2048-build-array-from-permutation](https://github.com/Akashpremnath2003/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Akashpremnath2003/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Akashpremnath2003/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Akashpremnath2003/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Akashpremnath2003/LeetCode/tree/master/0412-fizz-buzz) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Akashpremnath2003/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0742-to-lower-case](https://github.com/Akashpremnath2003/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Akashpremnath2003/LeetCode/tree/master/0782-jewels-and-stones) |
