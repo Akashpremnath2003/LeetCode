@@ -1,6 +1,6 @@
 class Solution {
     public String categorizeBox(int length, int width, int height, int mass) {
-        long v=1L*length*width*height;
+        long v=(long)length*width*height;
         String b="";
         String m="";
         String ans="";
