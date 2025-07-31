@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Akashpremnath2003/LeetCode/tree/master/0645-set-mismatch) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akashpremnath2003/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1839-decode-xored-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/1839-decode-xored-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/Akashpremnath2003/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Recursion
 |  |
 | ------- |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Akashpremnath2003/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/Akashpremnath2003/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Akashpremnath2003/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 ## String
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Akashpremnath2003/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Akashpremnath2003/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Akashpremnath2003/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2427-first-letter-to-appear-twice](https://github.com/Akashpremnath2003/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/Akashpremnath2003/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3379-score-of-a-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/3379-score-of-a-string) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Akashpremnath2003/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Akashpremnath2003/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [2427-first-letter-to-appear-twice](https://github.com/Akashpremnath2003/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Akashpremnath2003/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Counting Sort
 |  |
