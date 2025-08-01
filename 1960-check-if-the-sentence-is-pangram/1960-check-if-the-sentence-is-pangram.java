@@ -5,9 +5,8 @@ class Solution {
         Set<Character> c=new HashSet<>();
         for(char i:a)
             c.add(i);
-        if(c.size()==26)
-            return true;
-        return false;
+       
+        return c.size()==26;
 
     }
 }
