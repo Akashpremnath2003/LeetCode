@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Akashpremnath2003/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Akashpremnath2003/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Akashpremnath2003/LeetCode/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/Akashpremnath2003/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Akashpremnath2003/LeetCode/tree/master/0231-power-of-two) |
