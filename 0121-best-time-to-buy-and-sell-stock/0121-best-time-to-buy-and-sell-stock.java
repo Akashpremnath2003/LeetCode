@@ -10,8 +10,8 @@ class Solution {
         }
         if(prices[i]>m)
         {
-            int s=Math.abs(m-prices[i]);
-            System.out.println(s);
+            int s=prices[i]-m;
+
             if(s>a)
                 a=s;
         }
