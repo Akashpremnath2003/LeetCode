@@ -2,8 +2,7 @@ class Solution {
     public int maxProfit(int[] prices) {
        int m=Integer.MAX_VALUE;
        int a=0;
-       int i=0;
-       while(i!=prices.length)
+       for(int i=0;i<prices.length;i++)
        {
         if(prices[i]<m)
         {
@@ -16,7 +15,6 @@ class Solution {
             if(s>a)
                 a=s;
         }
-        i++;
        }
        return a;
     }
