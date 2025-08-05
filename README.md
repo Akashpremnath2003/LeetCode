@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/Akashpremnath2003/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Akashpremnath2003/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Akashpremnath2003/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akashpremnath2003/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akashpremnath2003/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [3790-fruits-into-baskets-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/Akashpremnath2003/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Akashpremnath2003/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Akashpremnath2003/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -400,4 +403,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Akashpremnath2003/LeetCode/tree/master/0164-maximum-gap) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
