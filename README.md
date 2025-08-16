@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Akashpremnath2003/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Akashpremnath2003/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akashpremnath2003/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1448-maximum-69-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Akashpremnath2003/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Akashpremnath2003/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Akashpremnath2003/LeetCode/tree/master/2619-categorize-box-according-to-criteria) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Akashpremnath2003/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1448-maximum-69-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1448-maximum-69-number) |
 | [1961-maximum-ice-cream-bars](https://github.com/Akashpremnath2003/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Akashpremnath2003/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Prefix Sum
