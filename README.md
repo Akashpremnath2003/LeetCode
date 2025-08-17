@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Akashpremnath2003/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Akashpremnath2003/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2181-smallest-index-with-equal-value](https://github.com/Akashpremnath2003/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Akashpremnath2003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Akashpremnath2003/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Akashpremnath2003/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Akashpremnath2003/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Akashpremnath2003/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Akashpremnath2003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Akashpremnath2003/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/0812-rotate-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Akashpremnath2003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Quickselect
 |  |
 | ------- |
