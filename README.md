@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Akashpremnath2003/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Akashpremnath2003/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Akashpremnath2003/LeetCode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Akashpremnath2003/LeetCode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Akashpremnath2003/LeetCode/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Akashpremnath2003/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akashpremnath2003/LeetCode/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/0394-decode-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Akashpremnath2003/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Design
