@@ -1,41 +1,40 @@
 class Solution {
     public String decodeString(String s) {
-        Stack<Integer> setint=new Stack<>();
-         Stack<String> schar=new Stack<>();
-         int n=0;
-         String s1="";
-         for(char i:s.toCharArray())
-         {
-            if(Character.isDigit(i))
+        Stack<Integer> in=new Stack<>();
+        Stack<String> st=new Stack<>();
+        int sum=0;
+        String s1="";
+        for(char j:s.toCharArray())
+        {
+            if(Character.isDigit(j))
             {
-                n=(n*10)+(i-'0');
+                sum=(sum*10)+(j-'0');
             }
-            else if(i=='[')
+            else if(j=='[')
             {
-                setint.push(n);
-                n=0;
-                schar.push(s1);
+                in.push(sum);
+                sum=0;
+                st.push(s1);
                 s1="";
-                
             }
-            else if(i==']')
+            else if(j==']')
             {
-                int ans=setint.pop();
-                String t=s1;
+                int k=in.pop();
+                String ans=s1;
                 s1="";
-                for(int j=0;j<ans;j++)
+                for(int i=0;i<k;i++)
                 {
-                    s1+=t;
+                    s1+=ans;
                 }
-                s1=schar.pop()+s1;
-                
+                s1=st.pop()+s1;
+
             }
             else
             {
-                s1=s1+i;
+                s1=s1+j;
             }
-         }
-         System.out.println(s1);
-         return s1;
+
+        }
+        return s1;
     }
 }
