@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Akashpremnath2003/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Akashpremnath2003/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Akashpremnath2003/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Akashpremnath2003/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Akashpremnath2003/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
