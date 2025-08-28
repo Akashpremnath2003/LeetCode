@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Akashpremnath2003/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Akashpremnath2003/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Akashpremnath2003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0376-wiggle-subsequence](https://github.com/Akashpremnath2003/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0414-third-maximum-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Akashpremnath2003/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Akashpremnath2003/LeetCode/tree/master/0645-set-mismatch) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akashpremnath2003/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Akashpremnath2003/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0376-wiggle-subsequence](https://github.com/Akashpremnath2003/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [1013-fibonacci-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Akashpremnath2003/LeetCode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Akashpremnath2003/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0376-wiggle-subsequence](https://github.com/Akashpremnath2003/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0561-array-partition](https://github.com/Akashpremnath2003/LeetCode/tree/master/0561-array-partition) |
 | [1448-maximum-69-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1448-maximum-69-number) |
 | [1961-maximum-ice-cream-bars](https://github.com/Akashpremnath2003/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
