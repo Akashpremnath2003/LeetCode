@@ -1,12 +1,13 @@
-void reverseString(char* s, int sSize) {
-    int i,c;
-    int n=sSize;
-    for(i=0;i<n;i++)
+void reverseString(char* a, int sSize) {
+    int l=0;
+    int r=sSize-1;
+    while(l<r)
     {
-        c=s[i];
-        s[i]=s[n-1];
-        s[n-1]=c;
-        n--;
+        char c=a[l];
+        a[l]=a[r];
+        a[r]=c;
+        l++;
+        r--;
+    }   
 
-    }    
 }
