@@ -7,12 +7,11 @@ class Solution {
             int m=numbers[l]+numbers[r];
             if(m==target)
                 return new int[]{l+1,r+1};
-            else if(m<target)
-                l++;
-            else
+            else if(m>target)
                 r--;
-
+            else
+                l++;
         }
-        return new int[]{-1,-1};
+    return new int[]{l+1,r+1};
     }
 }
