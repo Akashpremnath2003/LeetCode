@@ -32,6 +32,6 @@ class Solution {
                 s1=s1+s.charAt(i);
             }
         }
-        return s1;
+        return s1.trim();
     }
 }
