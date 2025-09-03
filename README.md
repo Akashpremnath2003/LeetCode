@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Akashpremnath2003/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Akashpremnath2003/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Akashpremnath2003/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Akashpremnath2003/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Akashpremnath2003/LeetCode/tree/master/0075-sort-colors) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Akashpremnath2003/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Akashpremnath2003/LeetCode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Akashpremnath2003/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Akashpremnath2003/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Akashpremnath2003/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Akashpremnath2003/LeetCode/tree/master/0070-climbing-stairs) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Akashpremnath2003/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Akashpremnath2003/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-flipping-an-image](https://github.com/Akashpremnath2003/LeetCode/tree/master/0861-flipping-an-image) |
