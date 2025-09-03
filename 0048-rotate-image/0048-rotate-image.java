@@ -13,7 +13,7 @@ class Solution {
          
         for(int i=0;i<matrix.length;i++)
         {
-            int n=matrix[0].length-1;
+            int n=matrix[i].length-1;
             for(int j=0;j<matrix[i].length/2;j++)
             {
                int d=matrix[i][j];
