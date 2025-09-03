@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/1651-shuffle-string) |
 | [1839-decode-xored-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/1839-decode-xored-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Akashpremnath2003/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Akashpremnath2003/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Akashpremnath2003/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Akashpremnath2003/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Akashpremnath2003/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-flipping-an-image](https://github.com/Akashpremnath2003/LeetCode/tree/master/0861-flipping-an-image) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akashpremnath2003/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Akashpremnath2003/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Sorting
 |  |
 | ------- |
