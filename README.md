@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Akashpremnath2003/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Akashpremnath2003/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Akashpremnath2003/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Akashpremnath2003/LeetCode/tree/master/2619-categorize-box-according-to-criteria) |
 | [2998-count-symmetric-integers](https://github.com/Akashpremnath2003/LeetCode/tree/master/2998-count-symmetric-integers) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Akashpremnath2003/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Akashpremnath2003/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Akashpremnath2003/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akashpremnath2003/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Simulation
