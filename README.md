@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/Akashpremnath2003/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3379-score-of-a-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/3379-score-of-a-string) |
+| [3451-string-compression-iii](https://github.com/Akashpremnath2003/LeetCode/tree/master/3451-string-compression-iii) |
 ## Sliding Window
 |  |
 | ------- |
