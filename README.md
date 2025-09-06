@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Akashpremnath2003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/Akashpremnath2003/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akashpremnath2003/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Akashpremnath2003/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/Akashpremnath2003/LeetCode/tree/master/0861-flipping-an-image) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Akashpremnath2003/LeetCode/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/Akashpremnath2003/LeetCode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Akashpremnath2003/LeetCode/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Akashpremnath2003/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akashpremnath2003/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
