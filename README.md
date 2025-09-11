@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Akashpremnath2003/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akashpremnath2003/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2887-sort-vowels-in-a-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/Akashpremnath2003/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/Akashpremnath2003/LeetCode/tree/master/2886-faulty-keyboard) |
+| [2887-sort-vowels-in-a-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3379-score-of-a-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/3379-score-of-a-string) |
 | [3451-string-compression-iii](https://github.com/Akashpremnath2003/LeetCode/tree/master/3451-string-compression-iii) |
 ## Sliding Window
