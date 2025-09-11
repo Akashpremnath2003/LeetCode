@@ -1,19 +1,18 @@
 class Solution {
     public String sortVowels(String s) {
         char a[]=s.toCharArray();
-        String s1="";
+        List<Character> c=new ArrayList<>();
         for(char k:a)
         {
             if(k=='a'||k=='A'||k=='e'||k=='E'||k=='i'||k=='I'||k=='o'||k=='O'||k=='u'||k=='U')
-            s1=s1+k;
+            c.add(k);
         }
-        char b[]=s1.toCharArray();
-        Arrays.sort(b);
+        c.sort(Comparator.naturalOrder());
         int c1=0;
         for(int i=0;i<s.length();i++)
         {
             if(a[i]=='a'||a[i]=='A'||a[i]=='e'||a[i]=='E'||a[i]=='i'||a[i]=='I'||a[i]=='o'||a[i]=='O'||a[i]=='u'||a[i]=='U')
-            a[i]=b[c1++];
+            a[i]=c.get(c1++);
         }
         String ans=new String(a);
         return ans;
