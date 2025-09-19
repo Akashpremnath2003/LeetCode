@@ -23,9 +23,7 @@ class Solution {
                 int n=a[c--];
                 String t=str;
                 str="";
-                for(int j=0;j<n;j++)
-                    str=str+t;
-                str=b[c1--]+str;
+                str=b[c1--]+t.repeat(n);
             }
             else
             {
