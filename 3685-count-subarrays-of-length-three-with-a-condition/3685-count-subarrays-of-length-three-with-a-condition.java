@@ -3,7 +3,7 @@ class Solution {
         int c=0;
        for(int i=0;i<a.length-2;i++)
        {
-        if(2*(a[i]+a[i+2])==a[i+1])
+        if((a[i]+a[i+2])*2==a[i+1])
             c++;
        } 
        return c;
