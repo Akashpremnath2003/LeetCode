@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Akashpremnath2003/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Akashpremnath2003/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3790-fruits-into-baskets-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Akashpremnath2003/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Akashpremnath2003/LeetCode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1013-fibonacci-number) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Akashpremnath2003/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/Akashpremnath2003/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akashpremnath2003/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Akashpremnath2003/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Akashpremnath2003/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Akashpremnath2003/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Akashpremnath2003/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2998-count-symmetric-integers](https://github.com/Akashpremnath2003/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Akashpremnath2003/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
