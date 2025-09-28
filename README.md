@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Akashpremnath2003/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1018-largest-perimeter-triangle](https://github.com/Akashpremnath2003/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Akashpremnath2003/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Akashpremnath2003/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Akashpremnath2003/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Akashpremnath2003/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/Akashpremnath2003/LeetCode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Akashpremnath2003/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Akashpremnath2003/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/Akashpremnath2003/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/Akashpremnath2003/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Akashpremnath2003/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/Akashpremnath2003/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0561-array-partition](https://github.com/Akashpremnath2003/LeetCode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Akashpremnath2003/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1448-maximum-69-number) |
 | [1961-maximum-ice-cream-bars](https://github.com/Akashpremnath2003/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Akashpremnath2003/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
