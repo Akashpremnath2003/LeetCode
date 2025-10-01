@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Akashpremnath2003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0376-wiggle-subsequence](https://github.com/Akashpremnath2003/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0414-third-maximum-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/Akashpremnath2003/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Akashpremnath2003/LeetCode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Akashpremnath2003/LeetCode/tree/master/0645-set-mismatch) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akashpremnath2003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Akashpremnath2003/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Akashpremnath2003/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0645-set-mismatch](https://github.com/Akashpremnath2003/LeetCode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Akashpremnath2003/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Akashpremnath2003/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Akashpremnath2003/LeetCode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/Akashpremnath2003/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2128-reverse-prefix-of-word](https://github.com/Akashpremnath2003/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Design
@@ -501,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Akashpremnath2003/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
