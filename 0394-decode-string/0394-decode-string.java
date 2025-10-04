@@ -1,35 +1,37 @@
 class Solution {
     public String decodeString(String s) {
-        int a[]=new int[100];
-        String b[]=new String[100];
-        char d[]=s.toCharArray();
-        int x=0;
-        int c=-1;
-        int c1=-1;
-        String str="";
-        for(int i=0;i<s.length();i++)
+        char a[]=s.toCharArray();
+        Stack<String> lis=new Stack<>();
+        Stack<Integer> num=new Stack<>();
+        int s1=0;
+        String s2="";
+        for(int i=0;i<a.length;i++)
         {
-            if(d[i]>='0'&&d[i]<='9')
-                x=x*10+d[i]-'0';
-            else if(d[i]=='[')
+            if(Character.isDigit(a[i]))
             {
-                a[++c]=x;
-                x=0;
-                b[++c1]=str;
-                str="";
+                s1=s1*10+(a[i]-'0');
             }
-            else if(d[i]==']')
+            else if(a[i]=='[')
             {
-                int n=a[c--];
-                String t=str;
-                str="";
-                str=b[c1--]+t.repeat(n);
+                num.add(s1);
+                s1=0;
+                lis.add(s2);
+                s2="";
+            }
+            else if(a[i]==']')
+            {
+               int k=num.pop();
+               String x=s2;
+               s2="";
+               for(int j=0;j<k;j++)
+                s2+=x;
+                s2=lis.pop()+s2; 
             }
             else
             {
-                str=str+d[i];
+                s2+=a[i];
             }
-        }
-        return str;
+       }
+       return s2;
     }
 }
