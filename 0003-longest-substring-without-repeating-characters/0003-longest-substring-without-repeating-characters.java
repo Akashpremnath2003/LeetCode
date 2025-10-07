@@ -1,11 +1,5 @@
 class Solution {
-    boolean search(List<Character> a,char s)
-    {
-        for(char k:a)
-            if(k==s)
-                return true;
-        return false;
-    }
+    
 
     public int lengthOfLongestSubstring(String s) {
         List<Character> li=new ArrayList<>();
@@ -14,12 +8,9 @@ class Solution {
         char a[]=s.toCharArray();
        for(int i=0;i<a.length;i++)
        {
-        boolean x=search(li,a[i]);
-        while(x)
+        while(li.contains(a[i]))
         {
             System.out.println(li.remove(l));
-            System.out.println(x);
-            x=search(li,a[i]);
 
         }  
         li.add(a[i]);
