@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akashpremnath2003/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Akashpremnath2003/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1904-second-largest-digit-in-a-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Akashpremnath2003/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Akashpremnath2003/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/Akashpremnath2003/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/Akashpremnath2003/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Akashpremnath2003/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1904-second-largest-digit-in-a-string](https://github.com/Akashpremnath2003/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Akashpremnath2003/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/Akashpremnath2003/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Akashpremnath2003/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
