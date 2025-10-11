@@ -14,21 +14,21 @@ class Solution {
         }
         return new String(a);
     }
-    boolean isPalindrome(String s, int start, int end)
+    boolean isPalindrome(char a[],int l,int r)
     {
-        while (start < end)
+
+        while(l<r)
         {
-            if (s.charAt(start) != s.charAt(end))
+            if(a[l]!=a[r])
                 return false;
-            start++;
-            end--;
+            l++;
+            r--;
         }
         return true;
     }
     public String longestPalindrome(String s) {
         char a[]=s.toCharArray();
         String ans=new String();
-        StringBuffer s1=new StringBuffer();
         int m=0;
         for(int i=0;i<a.length;i++)
         {
@@ -36,10 +36,10 @@ class Solution {
             for(int j=i;j<a.length;j++)
             {
                  int len = j - i + 1;
-                if (len > m && isPalindrome(s, i, j))
+                if (len > m && isPalindrome(a, i, j))
                 {
-                    ans = s.substring(i, j + 1);
-                    m = len;
+                    ans=s.substring(i,j+1);
+                    m=ans.length();
                 }
             }
         }
