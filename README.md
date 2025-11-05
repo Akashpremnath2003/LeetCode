@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Akashpremnath2003/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Akashpremnath2003/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Akashpremnath2003/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Akashpremnath2003/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Akashpremnath2003/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3790-fruits-into-baskets-ii](https://github.com/Akashpremnath2003/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Akashpremnath2003/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akashpremnath2003/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Akashpremnath2003/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Akashpremnath2003/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Akashpremnath2003/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Akashpremnath2003/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Akashpremnath2003/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akashpremnath2003/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Akashpremnath2003/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Counting
 |  |
 | ------- |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Akashpremnath2003/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Akashpremnath2003/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Akashpremnath2003/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Akashpremnath2003/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Enumeration
 |  |
 | ------- |
